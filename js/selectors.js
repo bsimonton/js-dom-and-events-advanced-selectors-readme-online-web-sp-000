@@ -33,7 +33,7 @@ function divSelector(){
 
 function firstListItem(){
   
- return $('div ul:img');
+ return $('div img:first-child');
   
 }
 
